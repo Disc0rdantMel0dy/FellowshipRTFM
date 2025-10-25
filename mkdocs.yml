@@ -1,0 +1,31 @@
+site_name: Fellowship Dungeon RTFM
+site_description: Cliff notes for Fellowship dungeons
+site_url: https://Disc0rdantMel0dy.github.io/FellowshipRTFM/
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - content.code.copy
+    - toc.follow
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - Normal Dungeons:
+      - Sailor's Abyss: dungeons/sample-dungeon.md
+      - Everdawn Grove: dungeons/sample-dungeon.md
+      - Silken Hollow: dungeons/sample-dungeon.md
+      - Godfall Quarry: dungeons/sample-dungeon.md
+      - Empyrean Sands: dungeons/sample-dungeon.md
+      - Empyrean Sands: dungeons/sample-dungeon.md
+  - Capstone Dungeons:
+      - Cithrel's Fall (Contender League): dungeons/sample-dungeon.md
+      - The Heart of Tuzari (Adept League): dungeons/sample-dungeon.md
+      - Cithrel's Fall (Champion League): dungeons/sample-dungeon.md
+      - Cithrel's Fall (Paragon League): dungeons/sample-dungeon.md
