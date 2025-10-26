@@ -1,8 +1,7 @@
 # Everdawn Grove
 
 **Dungeon Timer: 11:00**  
-**PUG Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/everdawn-grove#eJyFlEtPwkAUhf/LrDGZF4WyRAJuqgt0RUjT0Ak04oyZTjXE+N8darCt3iPbb27u65w7H+yVzTYbli3zrLD709w3weS3uRzfcDb6i5MWP2X5wtRm54tgfMRCXKLnx2p/CKbMnLeV3a+Ozp/OAfxKwE+59XMVYtL6UPjyXHBC96ForCPejjb/FOKgkJqAB9RZAjgqINCEqCHAeyMOZhe0YiKh8eQi5F3cjynXphVSchqLC35ogm+sbamSJFVXNZCgpymNU9JzrdZt9NI1x0cXzEu1w9agm5UpOQLvRvjthimyCZ2JXJxWFCUTaE5SOu24a3u4k26FA1lFQuPpdQXR8pHLtUYP6L40OjCNLlUjbXQK9VSovELlVYqqoMvXcCno9pOeAQcu5qS3hSaxpKO7Yx6qLruai+Ld1sFZs2piQ1Vh+//dUHFFJuv/Aa6u7+PZumid739QsO12xEo2Y9kpHKrd0nlTh5jljc3E5xdYFR4k
-)  
+**PUG Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/everdawn-grove#eJyFlEtPwkAUhf/LrDGZF4WyRAJuqgt0RUjT0Ak04oyZTjXE+N8darCt3iPbb27u65w7H+yVzTYbli3zrLD709w3weS3uRzfcDb6i5MWP2X5wtRm54tgfMRCXKLnx2p/CKbMnLeV3a+Ozp/OAfxKwE+59XMVYtL6UPjyXHBC96ForCPejjb/FOKgkJqAB9RZAjgqINCEqCHAeyMOZhe0YiKh8eQi5F3cjynXphVSchqLC35ogm+sbamSJFVXNZCgpymNU9JzrdZt9NI1x0cXzEu1w9agm5UpOQLvRvjthimyCZ2JXJxWFCUTaE5SOu24a3u4k26FA1lFQuPpdQXR8pHLtUYP6L40OjCNLlUjbXQK9VSovELlVYqqoMvXcCno9pOeAQcu5qS3hSaxpKO7Yx6qLruai+Ld1sFZs2piQ1Vh+//dUHFFJuv/Aa6u7+PZumid739QsO12xEo2Y9kpHKrd0nlTh5jljc3E5xdYFR4k)  
 **Advanced Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/everdawn-grove#eJyFlM1uwjAQhN/FZyrFf4FwpAh6iXqgPSEURcSCqNSpHKcVqvruNVSAqs6o128dZ3dm1p/iTUzXa1EuqrL2u+MsDNFV95Wyd5kY/cX5GT+X1dz1bhvq6ELCUuLTGmNzwbNDu9tH15Rd8K3fLQ9dOKYD2aW+emlj+kO/r0OTuB6TgiWcdHuhj0MMg/dnmCGoYP9kWHQB/NVp/M1oDfplg0vCFROKcIPnwV7LHOPxP+4p8t0E4wJ6pLhIdsJSUCC1NfZAIwovMDAaBl97lXJef/g+dt4th9RdW/tUpY0z3y0z3jLnLbPesh2x+U1p5ug1N4tuODx10b222xNn7RnDCqwLk7MC23nD1DQFDJrGGz6+Tf/reIbTijdI4dPqmpGHJKhrVu7nUVAw8hJGUsJ3RRtILV0azYTXTHhdMH1ZWg2NA0trnkElNKT4MT+lYLMZiUZMRXmM+3a76ILrYzr6Lqby6xtzWjdF)
 
 ---
@@ -36,7 +35,7 @@
 ??? note "DPS (click to expand)"{.role-dps}
     - **Bloodstone Totems (Adept+)** — Hard Swap to one Bloodstone Totem.  Other will be killed with line attack (See Everyone)
 
-??? note "Everyone (click to expand)" {.role-every}
+??? note "Everyone (click to expand)"{.role-every}
     - Core fight mechanics that affect all roles.  
     - **Dont hit Stag with Spread Cones** - These will damage deerest greatly.  If it dies so do we.
     - **If your targeted with line from Deerest during Totems** - Kill totem DPS is not attacking with it.
