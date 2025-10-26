@@ -9,25 +9,25 @@
 ## 🧹 Trash Mobs (Adept)
 
 ??? note "Tanks (click to expand)"
-    - **Enemy Name** — Tank-specific mechanic or positioning note.  
-    - **Example:** Slave Totems — Reduce mainstat aura; tank away from them.  
-    - Use active mitigation on heavy channels (e.g., *Mince*).
+    - **Hollowed Corsair (Adept)** — CC Immune enemy that has Wailing Strike making all autos cleave (frontal) and add bleed stacks. Point Away from group and kite to drop bleed stacks.
+    - **Fading Raiders** — Gains 2% Haste buff on auto (Max 40%).  These can be scary in large groups as they ramp.  Have care and save CDs for late pull.
 
 ??? note "Healers (click to expand)"
-    - **Enemy Name** — Healing-intensive mechanic; expected damage pattern.  
-    - **Example:** Gorestained Butcher — *Tantrum*: uninterruptible channel; heal through.  
-    - Identify debuffs safe to dispel vs. ones that should be left up.
+    - **There are a ton of dispels in this dungeon** - Watch your frames!! 
+    - **Tormented Specters** — Casts Anguish Unleashed (Raidwide Damage). Be ready to group heal if DPS miss interrupts.
 
 ??? note "DPS (click to expand)"
-    - **Enemy Name** — Interrupt priority list.  
-    - **Example:** Horned Seers — *Sanguine Offering* → must interrupt.  
-    - Focus order or burst targets if relevant.
-
+    - **Water Elementals** — Interrupt Healing Waters (no CC only hard interrupt)
+    - **Vengful Shade** — Casts Curse of Drowning (Magic DOT + Slow).  This can be interrupted with CC (Save hard ints for other casts).
+    - **Tormented Specters** — Usually spawns with Vengful Shades (see above).  Casts Anguish Unleashed (Raidwide Damage).  Interrupt when possible.
+    - **Deepbound Magi** — Must interrupt Shadow Eruption (Potential Lethal Raidwide)
+    
 ??? note "Everyone (click to expand)"
-    - **Enemy Name** — Shared mechanics and environmental hazards.  
-    - **Example:** Desecraters — Random AoE and soak circles; watch your feet.  
-    - Environmental warnings (e.g., “Do not walk on flowers — they spawn adds”).
-
+    - **Water Elementals** — All players in melee to mitigate second cast damage.
+    - **Witchreef Lashers (Adept)** — Casts Witchreef Toxin (uninterruptable) DOT debuff (weak but can stack).  Mass dispel relic is super useful here.
+    - **Vengful Shade and Tormented Specters (Adept)** — Gains Bitter Frenzy (Haste Buff) makes interrupts harder and increases damage throughput. 
+    - **Deepbound Magi (Adept)** — Casts Harrowing Solitude (AOE Split Damage).  Everyone in melee on these pulls to split damage (alone = Lethal).
+    
 ---
 
 ## 🧑‍💼 Boss: Sinthara
