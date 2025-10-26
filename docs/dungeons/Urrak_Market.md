@@ -8,17 +8,17 @@
 
 ## 🧹 Trash Mobs (Adept)
 
-### Tanks
+??? note ### Tanks
 - **Slave Totems** — Reduce mainstat aura. Tank away from them.  
 - **Gorestained Butcher** — *Mince*: heavy channeled damage; use active mitigation or cooldowns as needed.  
 - **Shredders** — Deal significantly more damage than normal mobs.
 
-### Healers
+??? note ### Healers
 - **Gorestained Butcher** — *Tantrum*: uninterruptible channel, heavy group damage.  
 - **Horned Seers** — Apply a magic debuff; **do not dispel** (grants damage buff). Heal through instead.  
 - **Urrak Witch** — *Jungle Rot*: group DoT; dispel if no mass-dispel available.
 
-### DPS
+??? note ### DPS
 - **Horned Seers** — *Sanguine Offering* → must interrupt.  
 - **Hell Callers** — *Restore Vitality* → must interrupt.  
 - **Urrak Witch** — *Grasping Vines* → must interrupt.
@@ -36,14 +36,14 @@
 
 ## 🧑‍💼 Boss: <Boss Name>
 
-### Tanks
+??? note ### Tanks
 - **Creeping Decay** — Tankbuster; moderate damage. Use active mitigation.
 
-### Healers
+??? note ### Healers
 - **Furious Tantrum** — Raid-wide damage; heal through.  
 - **Vortex** — Constant group damage while in thorns; heal through.
 
-### DPS
+??? note ### DPS
 - **Wild Bolt** — Keep interrupt rotation; reduces boss outgoing damage.
 
 ### Everyone
