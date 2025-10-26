@@ -21,6 +21,7 @@ extra_javascript:
   - assets/target-blank.js
 extra_css:
   - assets/two-col.css
+  - assets/wide-content.css
 nav:
   - Home: index.md
   - Normal Dungeons:
