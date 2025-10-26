@@ -1,0 +1,9 @@
+/* Two-column layout for wide screens; collapses to one column on mobile */
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.25rem;           /* space between columns */
+}
+@media (max-width: 1024px) {
+  .two-col { grid-template-columns: 1fr; }
+}
