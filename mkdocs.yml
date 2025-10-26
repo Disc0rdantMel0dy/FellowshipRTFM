@@ -17,7 +17,7 @@ markdown_extensions:
   - toc:
       permalink: true
 extra_javascript:
-  - https://unpkg.com/mkdocs-material-extensions/js/target-blank.js
+  - assets/target-blank.js
 nav:
   - Home: index.md
   - Normal Dungeons:
