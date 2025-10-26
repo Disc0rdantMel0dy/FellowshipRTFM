@@ -56,6 +56,11 @@
     - **Perfect Storm** - Everyone needs to get out of AOE. This will be made difficult by overlapping mechanics.  
     - Add universal mechanics (soaks, spreads, wipes, etc.).
 
+###ARENA MAP FOR POSITIONING
+<p align="center">
+  <img src="../../assets/Stormwatch_Strat_Image.png" alt="Arena Map" width="600">
+</p>
+
 ---
 
 ## 📺 Video Guide
