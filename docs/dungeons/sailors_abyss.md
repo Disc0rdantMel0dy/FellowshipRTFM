@@ -37,7 +37,6 @@
 ## 🧑‍💼 Boss: Sinthara
 
 ??? note "Tanks (click to expand)"{.role-tank}
-    - **Mechanic Name** — Tankbuster or swap mechanic.  
     - Position boss on east side of mast (east as you enter / the side she is on - see image below)  
     - Try to angle it so you are slightly South and East of her (see image below)
 
@@ -48,9 +47,7 @@
     
 
 ??? note "DPS (click to expand)"{.role-dps}
-    - **Mechanic Name** — Interrupts, adds, and burst windows.  
-    - Movement-heavy phases; where uptime can be maintained.  
-    - Priority tips for melee vs. ranged if applicable.
+    - **No DPS Specific Mechanics (See Everyone Section Below)**
 
 ??? note "Everyone (click to expand)"{.role-every}
     - Core fight mechanics that affect all roles. 
@@ -63,7 +60,7 @@
     - Be ready to take a step backward when necrotic wave targets another player so you dont get yeeted.
 
 <p align="center">
-  <img src="../assets/everdawn_grove/map.png" alt="Everdawn Grove Map" width="600">
+  <img src="../assets/Sailors_Abyss_Positioning.png" alt="Arena Map" width="600">
 </p>
 
 ---
