@@ -1,47 +1,74 @@
 # <Dungeon Name>
 
-**Dungeon Timer: 13:00**  
-**PUG Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/urrak-markets#eJx9VMtugzAQ/BefqYQJ71tCpeZCW5XmUKHIsghVaBBUtkkPVf+9BEKpozHX2dfseNbf5JPEeU52KXvqlOiaphQsYc6dTaxbcDWAmeKqKtJSHteFagWzp9SdEPyU1fw8JLsD/PjMtrx+T3lTcFUcx97UGPINzS6T91aOa/64PrSilIpXTXnYdFOYrtAqkTYn5eJUKnnJRskeAv0FSrZ5d8NcG42AZNzr3B7etqJfNStHksGUrcMRahLC9w2XZI4C41JRCEf7LoY9aCNn3kszIhTBgfwd+NSOC1EPy7VaNNPMRq/yZvLYhOGyRyMoycjl/oUlXa0qqVL+0YqES6W748ZKoQGPsMAUykOh56kP0QCiIUSNh2daZ8mTnvkjgXcM/eFBAYZzusql/0UOlCZYNg6FD+xrO88TIKNguvwkZZtWytevqpHsTUg+9Kd9hRZZV80U2e8tciAx+S9tn34mMf35BSPH8oQ=)
-**Advanced Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/urrak-markets#eJx9VNFugjAU/Zc+a0JbCsrbxpL5wraM+EQIabATp4GlFF+W/fsAFURPfT3ntj339J77S35IkCRkHWVrreU+knqvTJ2FGZ07ZNbh743RTVkq3YICgR4CGQJ5D8ZGml0eqbp4yk2lM+dS2iuID/LYF7voBqiqq0xnyd1rUC1fwCsciHKIQmWugM1R3Bz1LfjCgi/hm9gOdvbj5TOLZJlLkxc94Z/K72CGYX6BWxXNtjBKH3elGm1BjGNlBHzEw5I8Nn5p70Eot+r6+6fuWExb4rtP6t8+spU8fE0oamU8cRaESGE/BkMEp0rAqRLDnLxWWtVGtm5unpupYBvLBnpV6ZaJ1c37UxjGxYdifRcOu4f/gbkWXMxhcCmOPtRHocVjvCYojP4YrdsNSC0Ex7IZTCODm5BBWxlsnA3RCZuD2dUmkt+VDmVtHmxauM94pzBNZ2RDAnLdVFt6JAH9+wd8ZvM/)
+!!! warning "⚠️ This Dungeon Guide is Under Construction"
+    This page is currently being worked on and may contain incomplete or placeholder information.  
+    Check back later for the finalized strategies and role-specific notes.
 
-!!! info "TL;DR"
-    - Key mechanic / must-know  
-    - Boss counter in one line  
-    - Fast route / skip tip  
-
-## Overview
-One short paragraph describing the dungeon’s theme and layout.
+**Dungeon Timer:**  
+**PUG Route:** [Open Route in Method.gg](<PUG_URL>)  
+**Advanced Route:** [Open Route in Method.gg](<ADV_URL>)
 
 ---
 
-### 🧹 Trash Mobs (Adept)
+## 🧹 Trash Mobs (Adept)
 
-??? note "Tanks (click to expand)"
-    - ...
+??? note "Tanks (click to expand)"   { .role-tank }
+    - **Enemy Name** — Tank-specific mechanic or positioning note.  
+    - **Example:** Slave Totems — Reduce mainstat aura; tank away from them.  
+    - Use active mitigation on heavy channels (e.g., *Mince*).
 
-??? note "Healers (click to expand)"
-    - ...
+??? note "Healers (click to expand)" { .role-healer }
+    - **Enemy Name** — Healing-intensive mechanic; expected damage pattern.  
+    - **Example:** Gorestained Butcher — *Tantrum*: uninterruptible channel; heal through.  
+    - Identify debuffs safe to dispel vs. ones that should be left up.
 
-??? note "DPS (click to expand)"
-    - ...
+??? note "DPS (click to expand)"     { .role-dps }
+    - **Enemy Name** — Interrupt priority list.  
+    - **Example:** Horned Seers — *Sanguine Offering* → must interrupt.  
+    - Focus order or burst targets if relevant.
 
-??? note "Everyone (click to expand)"
-    - ...
+??? note "Everyone (click to expand)" { .role-every }
+    - **Enemy Name** — Shared mechanics and environmental hazards.  
+    - **Example:** Desecraters — Random AoE and soak circles; watch your feet.  
+    - Environmental warnings (e.g., “Do not walk on flowers — they spawn adds”).
 
-### 🧑‍💼 Boss: <Boss Name>
+---
 
-??? note "Tanks (click to expand)"
-    - ...
+## 🧑‍💼 Boss: <Boss Name>
 
-??? note "Healers (click to expand)"
-    - ...
+??? note "Tanks (click to expand)"   { .role-tank }
+    - **Mechanic Name** — Tankbuster or swap mechanic.  
+    - Use cooldowns or active mitigation as needed.  
+    - Positional notes (facing, adds, etc.).
 
-??? note "DPS (click to expand)"
-    - ...
+??? note "Healers (click to expand)" { .role-healer }
+    - **Mechanic Name** — Raid-wide AoE or sustained damage phases.  
+    - Healing cooldown recommendations.  
+    - Debuff management notes.
 
-??? note "Everyone (click to expand)"
-    - ...
+??? note "DPS (click to expand)"     { .role-dps }
+    - **Mechanic Name** — Interrupts, adds, and burst windows.  
+    - Movement-heavy phases; where uptime can be maintained.  
+    - Priority tips for melee vs. ranged if applicable.
 
+??? note "Everyone (click to expand)" { .role-every }
+    - Core fight mechanics that affect all roles.  
+    - **Example:** “Kill bosses evenly or enrage triggers.”  
+    - AoEs to dodge, soaks, positioning patterns, or teamwork elements.  
+    - Environmental or timing notes (e.g., “Use Thorns AOE to slow self during Vortex”).
+
+---
+
+## 📺 Video Guide
+
+???+ info "Watch Video Guide (click to expand)"
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+      <iframe 
+        src="https://www.youtube.com/embed/<VIDEO_ID>" 
+        style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+        frameborder="0" allowfullscreen>
+      </iframe>
+    </div>
 
 ---
 
