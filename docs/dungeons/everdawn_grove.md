@@ -9,35 +9,35 @@
 
 ## 🧹 Trash Mobs (Adept)
 
-??? note "Tanks (click to expand)"   { .role-tank }
+??? note "Tanks (click to expand)"{.role-tank}
     - **Gorestained Butcher** — Watch for Mince channel pop defensive during it.
     - **Skip first Goliath and Kill second before boss (Adept)** 
 
-??? note "Healers (click to expand)" { .role-healer }
+??? note "Healers (click to expand)"{.role-healer}
     - **Watch for dispells during trash.** 
 
 
-??? note "DPS (click to expand)"     { .role-dps }
+??? note "DPS (click to expand)"{.role-dps}
     - **Totemic Shamans** — Hard swap to corruption totems during trash.  
     
-??? note "Everyone (click to expand)" { .role-every }
+??? note "Everyone (click to expand)"{.role-every}
     - **Random Soaks during trash** 
     
 ---
 
 ## 🧑‍💼 Boss: <Boss Name>
 
-??? note "Tanks (click to expand)"   { .role-tank }
+??? note "Tanks (click to expand)"{.role-tank}
     - **Umbral Shot (75% Cleave)** — Pop Defensives and Aim safe spot at deerest (Deer that pats around arena)  
 
-??? note "Healers (click to expand)" { .role-healer }
+??? note "Healers (click to expand)"{.role-healer}
     - **Keep Deerest Alive** — Top off Deerest (Deer that pats around arena) if he gets below 70%  
     - **Corrupting Shot** —  Dispel after group is stacked.  If cleaves come wait until after they resolve.
 
-??? note "DPS (click to expand)"     { .role-dps }
+??? note "DPS (click to expand)"{.role-dps}
     - **Bloodstone Totems (Adept+)** — Hard Swap to one Bloodstone Totem.  Other will be killed with line attack (See Everyone)
 
-??? note "Everyone (click to expand)" { .role-every }
+??? note "Everyone (click to expand)" {.role-every}
     - Core fight mechanics that affect all roles.  
     - **Dont hit Stag with Spread Cones** - These will damage deerest greatly.  If it dies so do we.
     - **If your targeted with line from Deerest during Totems** - Kill totem DPS is not attacking with it.
