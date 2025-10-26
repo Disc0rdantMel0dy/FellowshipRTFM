@@ -47,14 +47,15 @@
 
 ??? note "Everyone (click to expand)"
     - Core fight mechanics that affect all roles. 
-    - **CORE MECHANIC** In the middle of arena is an interactable mast.  This must be clicked when Siren's Song (Happens at 50%) goes off to chain yourself to it. If you don't you die. 
-    - **CORE MECHANIC (Adept)** In the middle of arena is an interactable mast.  This must be used to Line of Sight the Necrotic Wave (big green line AOE) when you are targeted or you get yeeted out of arena.
+    - **CORE MECHANIC - Siren's Song** In the middle of arena is an interactable mast.  This must be clicked when Siren's Song (Happens at 50%) goes off to chain yourself to it. If you don't you die. 
+    - **CORE MECHANIC - Necrotic Wave (Adept)** In the middle of arena is an interactable mast.  This must be used to Line of Sight the Necrotic Wave (big green line AOE) when you are targeted or you get yeeted out of arena (see image below).
     - All players **NEED TO BE IN MELEE RANGE** to aid with dodging mechanics. (Namely Siren's Song - see above - and Necrotic Wave - see below)
     - **Deafening Screech** — Interrupts anyone casting when it goes off.
     - **Undertow** — Magic DOT cast on 2 players (tank excluded).  Drops a puddle that damages / slows.  Move to edge of platform to prevent mucking up playable area.
     - **Binding Strike** — Tethers random party member to tank. Stay cloes to prevent damage (if you are standing where you should this should auto-resolve)
     - Be ready to take a step backward when necrotic wave targets another player so you dont get yeeted.
 
+###ARENA MAP FOR POSITIONING
 <p align="center">
   <img src="../../assets/Sailors_Abyss_Positioning.png" alt="Arena Map" width="600">
 </p>
