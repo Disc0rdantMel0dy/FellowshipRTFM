@@ -60,4 +60,4 @@
 
 ---
 
-*Last updated: YYYY-MM-DD*
+*Last updated: 2025-10-25*
