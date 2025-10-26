@@ -1,8 +1,8 @@
-# <Dungeon Name>
+# <Capstone Dungeon Name>
 
 !!! warning "⚠️ This Dungeon Guide is Under Construction"
     This page is currently being worked on and may contain incomplete or placeholder information.  
-    Check back later for the finalized strategies and role-specific notes.
+    Check back later for finalized strategies and role-specific notes.
 
 **Dungeon Timer:**  
 **PUG Route:** [Open Route in Method.gg](<PUG_URL>)  
@@ -13,49 +13,84 @@
 ## 🧹 Trash Mobs (Adept)
 
 ??? note "Tanks (click to expand)"   { .role-tank }
-    - **Enemy Name** — Tank-specific mechanic or positioning note.  
-    - **Example:** Slave Totems — Reduce mainstat aura; tank away from them.  
+    - **Enemy Name** — Tank-specific mechanic or positioning note.
+    - **Example:** Slave Totems — Reduce mainstat aura; tank away from them.
     - Use active mitigation on heavy channels (e.g., *Mince*).
 
 ??? note "Healers (click to expand)" { .role-healer }
-    - **Enemy Name** — Healing-intensive mechanic; expected damage pattern.  
-    - **Example:** Gorestained Butcher — *Tantrum*: uninterruptible channel; heal through.  
-    - Identify debuffs safe to dispel vs. ones that should be left up.
+    - **Enemy Name** — Healing-intensive mechanic; expected damage pattern.
+    - **Example:** Gorestained Butcher — *Tantrum*: uninterruptible channel; heal through.
+    - Identify debuffs safe to dispel vs. those better left up.
 
 ??? note "DPS (click to expand)"     { .role-dps }
-    - **Enemy Name** — Interrupt priority list.  
-    - **Example:** Horned Seers — *Sanguine Offering* → must interrupt.  
+    - **Enemy Name** — Interrupt priority list.
+    - **Example:** Horned Seers — *Sanguine Offering* → must interrupt.
     - Focus order or burst targets if relevant.
 
 ??? note "Everyone (click to expand)" { .role-every }
-    - **Enemy Name** — Shared mechanics and environmental hazards.  
-    - **Example:** Desecraters — Random AoE and soak circles; watch your feet.  
+    - **Enemy Name** — Shared mechanics and environmental hazards.
+    - **Example:** Desecraters — Random AoE and soak circles; watch your feet.
     - Environmental warnings (e.g., “Do not walk on flowers — they spawn adds”).
 
 ---
 
-## 🧑‍💼 Boss: <Boss Name>
+## 🧑‍💼 Boss 1: <Boss Name>
 
 ??? note "Tanks (click to expand)"   { .role-tank }
-    - **Mechanic Name** — Tankbuster or swap mechanic.  
-    - Use cooldowns or active mitigation as needed.  
-    - Positional notes (facing, adds, etc.).
+    - **Tankbuster / Swap** — timing and mitigation plan.
+    - Positioning (facing, cleave cones, add pickup).
 
 ??? note "Healers (click to expand)" { .role-healer }
-    - **Mechanic Name** — Raid-wide AoE or sustained damage phases.  
-    - Healing cooldown recommendations.  
-    - Debuff management notes.
+    - **Raidwides / Sustained** — HPS windows and CD suggestions.
+    - Critical dispels or triage priorities.
 
 ??? note "DPS (click to expand)"     { .role-dps }
-    - **Mechanic Name** — Interrupts, adds, and burst windows.  
-    - Movement-heavy phases; where uptime can be maintained.  
-    - Priority tips for melee vs. ranged if applicable.
+    - **Interrupts / Adds** — rotation and burst windows.
+    - Uptime / movement notes for melee vs ranged.
 
 ??? note "Everyone (click to expand)" { .role-every }
-    - Core fight mechanics that affect all roles.  
-    - **Example:** “Kill bosses evenly or enrage triggers.”  
-    - AoEs to dodge, soaks, positioning patterns, or teamwork elements.  
-    - Environmental or timing notes (e.g., “Use Thorns AOE to slow self during Vortex”).
+    - Core mechanics affecting all roles (soaks, spreads, baits).
+    - Special positioning patterns / “do this or die” checks.
+
+---
+
+## 🧑‍💼 Boss 2: <Boss Name>
+
+??? note "Tanks (click to expand)"   { .role-tank }
+    - **Tankbuster / Swap** — timing and mitigation plan.
+    - Positioning (facing, cleave cones, add pickup).
+
+??? note "Healers (click to expand)" { .role-healer }
+    - **Raidwides / Sustained** — HPS windows and CD suggestions.
+    - Critical dispels or triage priorities.
+
+??? note "DPS (click to expand)"     { .role-dps }
+    - **Interrupts / Adds** — rotation and burst windows.
+    - Uptime / movement notes for melee vs ranged.
+
+??? note "Everyone (click to expand)" { .role-every }
+    - Core mechanics affecting all roles (soaks, spreads, baits).
+    - Special positioning patterns / “do this or die” checks.
+
+---
+
+## 🧑‍💼 Boss 3: <Boss Name>
+
+??? note "Tanks (click to expand)"   { .role-tank }
+    - **Tankbuster / Swap** — timing and mitigation plan.
+    - Positioning (facing, cleave cones, add pickup).
+
+??? note "Healers (click to expand)" { .role-healer }
+    - **Raidwides / Sustained** — HPS windows and CD suggestions.
+    - Critical dispels or triage priorities.
+
+??? note "DPS (click to expand)"     { .role-dps }
+    - **Interrupts / Adds** — rotation and burst windows.
+    - Uptime / movement notes for melee vs ranged.
+
+??? note "Everyone (click to expand)" { .role-every }
+    - Core mechanics affecting all roles (soaks, spreads, baits).
+    - Special positioning patterns / “do this or die” checks.
 
 ---
 
