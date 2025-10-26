@@ -1,61 +1,60 @@
-# <Dungeon Name>
+# Urrak Markets
 
-!!! warning "⚠️ This Dungeon Guide is Under Construction"
-    This page is currently being worked on and may contain incomplete or placeholder information.  
-    Check back later for the finalized strategies and role-specific notes.
-
-**Dungeon Timer:**  
-**PUG Route:** [Open Route in Method.gg](<PUG_URL>)  
-**Advanced Route:** [Open Route in Method.gg](<ADV_URL>)
+**Dungeon Timer: 13:00**  
+**PUG Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/urrak-markets#eJx9VMtugzAQ/BefqYQJ71tCpeZCW5XmUKHIsghVaBBUtkkPVf+9BEKpozHX2dfseNbf5JPEeU52KXvqlOiaphQsYc6dTaxbcDWAmeKqKtJSHteFagWzp9SdEPyU1fw8JLsD/PjMtrx+T3lTcFUcx97UGPINzS6T91aOa/64PrSilIpXTXnYdFOYrtAqkTYn5eJUKnnJRskeAv0FSrZ5d8NcG42AZNzr3B7etqJfNStHksGUrcMRahLC9w2XZI4C41JRCEf7LoY9aCNn3kszIhTBgfwd+NSOC1EPy7VaNNPMRq/yZvLYhOGyRyMoycjl/oUlXa0qqVL+0YqES6W748ZKoQGPsMAUykOh56kP0QCiIUSNh2daZ8mTnvkjgXcM/eFBAYZzusql/0UOlCZYNg6FD+xrO88TIKNguvwkZZtWytevqpHsTUg+9Kd9hRZZV80U2e8tciAx+S9tn34mMf35BSPH8oQ=)  
+**Advanced Route:** [Open Route in Method.gg](www.method.gg/fellowship/route-planner/urrak-markets#eJx9VNFugjAU/Zc+a0JbCsrbxpL5wraM+EQIabATp4GlFF+W/fsAFURPfT3ntj339J77S35IkCRkHWVrreU+knqvTJ2FGZ07ZNbh743RTVkq3YICgR4CGQJ5D8ZGml0eqbp4yk2lM+dS2iuID/LYF7voBqiqq0xnyd1rUC1fwCsciHKIQmWugM1R3Bz1LfjCgi/hm9gOdvbj5TOLZJlLkxc94Z/K72CGYX6BWxXNtjBKH3elGm1BjGNlBHzEw5I8Nn5p70Eot+r6+6fuWExb4rtP6t8+spU8fE0oamU8cRaESGE/BkMEp0rAqRLDnLxWWtVGtm5unpupYBvLBnpV6ZaJ1c37UxjGxYdifRcOu4f/gbkWXMxhcCmOPtRHocVjvCYojP4YrdsNSC0Ex7IZTCODm5BBWxlsnA3RCZuD2dUmkt+VDmVtHmxauM94pzBNZ2RDAnLdVFt6JAH9+wd8ZvM/)
 
 ---
 
 ## 🧹 Trash Mobs (Adept)
 
 ??? note "Tanks (click to expand)"{.role-tank}
-    - **Enemy Name** — Tank-specific mechanic or positioning note.  
-    - **Example:** Slave Totems — Reduce mainstat aura; tank away from them.  
-    - Use active mitigation on heavy channels (e.g., *Mince*).
+    - **Slave Totems** — Towers near several pulls.  Emit a Reduce Mainstat aura. Cannot be killed until their packs die so tank away from them.
+    - **Gorestained Butcher** — Channels Mince (non-interruptable) Heavy channeled damage. Active Mitigation / CD as needed.
+    - **Shredders** — These do way more damage than regular mobs. Have care when pulling big with these.
 
 ??? note "Healers (click to expand)"{.role-healer}
-    - **Enemy Name** — Healing-intensive mechanic; expected damage pattern.  
-    - **Example:** Gorestained Butcher — *Tantrum*: uninterruptible channel; heal through.  
-    - Identify debuffs safe to dispel vs. ones that should be left up.
+    - **Gorestained Butcher** — Tantrum is an uninterruptible Channel that deals group damage to heal through.
+    - **Horned Seers** — Casts Magic Debuff, DO NOT DISPEL, provides damage buff (just heal through damage if possible)
+    - **Urrak Witch** — Casts Jungle Rot (group heavy damage DOT), use dispel as quickly as possible (if no one mass dispels)
 
 ??? note "DPS (click to expand)"{.role-dps}
-    - **Enemy Name** — Interrupt priority list.  
-    - **Example:** Horned Seers — *Sanguine Offering* → must interrupt.  
-    - Focus order or burst targets if relevant.
-
+    - **Horned Seers** — Sanguine Offering must be interrupted.
+    - **Urrak Witch** — Restore Vitality must be interrupted.
+    - **Hell Callers** — Grasping Vines must be interrupted.
+    
 ??? note "Everyone (click to expand)"{.role-every}
-    - **Enemy Name** — Shared mechanics and environmental hazards.  
-    - **Example:** Desecraters — Random AoE and soak circles; watch your feet.  
-    - Environmental warnings (e.g., “Do not walk on flowers — they spawn adds”).
-
+    - **Slave Totems** — Emit a reduced mainstat aura and cannot be damaged until mobs cleared.
+    - **Urrak Slavers** —  PBAOE to avoid / interrupt. Casts Chains so get close to partner to reduce damage (or interrupt).
+    - **Mancatchers** — Casts grip on ranged.  Stack in melee to prevent cast.
+    - **Desecreters** 
+        - Casts random aoe circles to avoid. Watch your feet.
+        - Also casts soak cirles.  Someone needs to soak.
+    - **Hell Callers** — Casts Armageddon, lots of AOE cirlces to dodge. Watch your feet!!
+    - **Urrak Witch** — Casts Jungle Rot (group DOT), use mass dispel relic to clear (if available)
+    - **DO NOT WALK ON FLOWERS** - They spawn adds!
+    
 ---
 
-## 🧑‍💼 Boss: <Boss Name>
+## 🧑‍💼 Boss: Drazhul the Fleshbroker and Slavetrader Brull
 
 ??? note "Tanks (click to expand)"{.role-tank}
-    - **Mechanic Name** — Tankbuster or swap mechanic.  
-    - Use cooldowns or active mitigation as needed.  
-    - Positional notes (facing, adds, etc.).
+    - **Creeping Decay** — Tankbuster. Use active mitigation (moderate damage)
 
 ??? note "Healers (click to expand)"{.role-healer}
-    - **Mechanic Name** — Raid-wide AoE or sustained damage phases.  
-    - Healing cooldown recommendations.  
-    - Debuff management notes.
+    - **Furious Tantrum** — Raid wide damage.  Heal through. Possible CD (will need to pick here or Vortex - see below)
+    - **Vortex** — Everyone in thorns will be taking damage.  Heal through. Possible CD (will need to pick here or Furious Tantrum - see above)
 
 ??? note "DPS (click to expand)"{.role-dps}
-    - **Mechanic Name** — Interrupts, adds, and burst windows.  
-    - Movement-heavy phases; where uptime can be maintained.  
-    - Priority tips for melee vs. ranged if applicable.
+    - **Wild Bolt** — Keep interrupt rotation on this as much as possible.  Reduces overall outgoing damage.Stacking enrage on the boss with most health.
 
 ??? note "Everyone (click to expand)"{.role-every}
     - Core fight mechanics that affect all roles.  
-    - **Example:** “Kill bosses evenly or enrage triggers.”  
-    - AoEs to dodge, soaks, positioning patterns, or teamwork elements.  
-    - Environmental or timing notes (e.g., “Use Thorns AOE to slow self during Vortex”).
+    - **Bosses have to be killed evenly!**  - Stacking enrage buff on the boss with most health.
+    - **Conjure Scythe** — Casts spinning AOE towards random party member that will bounce around room.  Avoid these or take very heavy stacking bleed damage.
+    - **Wild Root Thorns** — **CORE MECHANIC** Casts on random party member (green cirlce).  Needs to be placed half way between center and outer edge of arena (see below).
+    - **Vortex** — **CORE MECHANIC** Boss jumps to center and sucks everyone in.  Hitting middle == Death!  This cannot be outrun! Use Root Thorns ground AOE to slow self and survive.
+    - **Infernal Explosive (Adept)** — Soak the cirlces or DIE!
 
 ---
 
@@ -64,7 +63,7 @@
 ???+ info "Watch Video Guide (click to expand)"
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
       <iframe 
-        src="https://www.youtube.com/embed/<VIDEO_ID>" 
+        src="https://www.youtube.com/embed/L2Bo1ZLrg4k" 
         style="position:absolute;top:0;left:0;width:100%;height:100%;" 
         frameborder="0" allowfullscreen>
       </iframe>
@@ -72,4 +71,4 @@
 
 ---
 
-*Last updated: YYYY-MM-DD*
+*Last updated: 2025-10-25*
