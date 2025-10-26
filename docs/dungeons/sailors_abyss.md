@@ -56,7 +56,7 @@
     - Be ready to take a step backward when necrotic wave targets another player so you dont get yeeted.
 
 <p align="center">
-  <img src="{{ base_url }}/assets/Sailors_Abyss_Positioning.png" alt="Arena Map" width="600">
+  <img src="Sailors_Abyss_Positioning.png" alt="Arena Map" width="600">
 </p>
 
 ---
