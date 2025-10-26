@@ -27,7 +27,6 @@ extra_css:
 nav:
   - Home: index.md
   - Normal Dungeons:
-      - Sandbox: dungeons/sandbox.md
       - Sailor's Abyss: dungeons/sailors_abyss.md
       - Everdawn Grove: dungeons/everdawn_grove.md
       - Silken Hollow: dungeons/silken_hollow.md
