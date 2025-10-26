@@ -17,7 +17,7 @@
 ??? note "DPS (click to expand)"
     - **No major DPS-specific mechanics on trash**  
    
-??? note "Everyone (click to expand)"{.role-every}
+??? note "Everyone (click to expand)"
     - Throughout dungeon mobs target tank with PBAOE that damages and applies bleeds.
     - **Enforcers (Adept)** — Casts Reflect shield, get behind them or kill yourself. There is a telegraph. Range play Close.
     - **Quarry Stalkers** — Casts on random party member to apply poison DOT.  Interrupt or Dispel.
