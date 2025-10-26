@@ -13,7 +13,7 @@
 One short paragraph describing the dungeon’s theme and layout.
 
 ---
-
+<div class="two-col" markdown>
 ## 🧹 Trash Mobs (Adept)
 
 ??? note "Tanks (click to expand)"
@@ -52,6 +52,7 @@ One short paragraph describing the dungeon’s theme and layout.
     - Movement traps (e.g., vortex pull → avoid center).
     - Soaks / baits / safe spots.
 
+</div>
 ---
 
 *Last updated: YYYY-MM-DD*
