@@ -15,7 +15,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - run: pip install mkdocs-material
+      - run: pip install "mkdocs>=1.5" "mkdocs-material>=9" "pymdown-extensions>=10" "markdown>=3.5"
       - run: mkdocs build --strict
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
