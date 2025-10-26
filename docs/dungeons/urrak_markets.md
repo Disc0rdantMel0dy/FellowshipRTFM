@@ -8,22 +8,22 @@
 
 ## 🧹 Trash Mobs (Adept)
 
-??? note "Tanks (click to expand)"{.role-tank}
+??? note "Tanks (click to expand)"
     - **Slave Totems** — Towers near several pulls.  Emit a Reduce Mainstat aura. Cannot be killed until their packs die so tank away from them.
     - **Gorestained Butcher** — Channels Mince (non-interruptable) Heavy channeled damage. Active Mitigation / CD as needed.
     - **Shredders** — These do way more damage than regular mobs. Have care when pulling big with these.
 
-??? note "Healers (click to expand)"{.role-healer}
+??? note "Healers (click to expand)"
     - **Gorestained Butcher** — Tantrum is an uninterruptible Channel that deals group damage to heal through.
     - **Horned Seers** — Casts Magic Debuff, DO NOT DISPEL, provides damage buff (just heal through damage if possible)
     - **Urrak Witch** — Casts Jungle Rot (group heavy damage DOT), use dispel as quickly as possible (if no one mass dispels)
 
-??? note "DPS (click to expand)"{.role-dps}
+??? note "DPS (click to expand)"
     - **Horned Seers** — Sanguine Offering must be interrupted.
     - **Urrak Witch** — Restore Vitality must be interrupted.
     - **Hell Callers** — Grasping Vines must be interrupted.
     
-??? note "Everyone (click to expand)"{.role-every}
+??? note "Everyone (click to expand)"
     - **Slave Totems** — Emit a reduced mainstat aura and cannot be damaged until mobs cleared.
     - **Urrak Slavers** —  PBAOE to avoid / interrupt. Casts Chains so get close to partner to reduce damage (or interrupt).
     - **Mancatchers** — Casts grip on ranged.  Stack in melee to prevent cast.
@@ -38,17 +38,17 @@
 
 ## 🧑‍💼 Boss: Drazhul the Fleshbroker and Slavetrader Brull
 
-??? note "Tanks (click to expand)"{.role-tank}
+??? note "Tanks (click to expand)"
     - **Creeping Decay** — Tankbuster. Use active mitigation (moderate damage)
 
-??? note "Healers (click to expand)"{.role-healer}
+??? note "Healers (click to expand)"
     - **Furious Tantrum** — Raid wide damage.  Heal through. Possible CD (will need to pick here or Vortex - see below)
     - **Vortex** — Everyone in thorns will be taking damage.  Heal through. Possible CD (will need to pick here or Furious Tantrum - see above)
 
-??? note "DPS (click to expand)"{.role-dps}
+??? note "DPS (click to expand)"
     - **Wild Bolt** — Keep interrupt rotation on this as much as possible.  Reduces overall outgoing damage.Stacking enrage on the boss with most health.
 
-??? note "Everyone (click to expand)"{.role-every}
+??? note "Everyone (click to expand)"
     - Core fight mechanics that affect all roles.  
     - **Bosses have to be killed evenly!**  - Stacking enrage buff on the boss with most health.
     - **Conjure Scythe** — Casts spinning AOE towards random party member that will bounce around room.  Avoid these or take very heavy stacking bleed damage.
