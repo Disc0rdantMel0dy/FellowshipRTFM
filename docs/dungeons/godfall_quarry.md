@@ -1,62 +1,49 @@
-# <Dungeon Name>
+# Godfall Quarry
 
-!!! warning "⚠️ This Dungeon Guide is Under Construction"
-    This page is currently being worked on and may contain incomplete or placeholder information.  
-    Check back later for the finalized strategies and role-specific notes.
-
-**Dungeon Timer:**  
-**PUG Route:** [Open Route in Method.gg](<PUG_URL>)  
-**Advanced Route:** [Open Route in Method.gg](<ADV_URL>)
+**Dungeon Timer: 12:00**  
+**PUG Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/godfall-quarry#eJx9VMtuwjAQ/BefqRQ7zvNGUYoqNZcWqQcURQZMiQh25Zheqv57TUpRHHZznYl3Z2dn800+Sb5ek0VZF+2+Xmqt6kUdJg8BmY3BdAiuRHc8ic5K46i4Z8qn+u3YWAd1B2F2Do8QPIbKZwDIAwCMQJCi6miGUuxSqpqN54+g+SNv/kLttdn2RTj0MTRN7Al/0fqoz9bhCQynvjZfOMdniv6p1/OmaRsr52fjSK3kxYwpkvkd52YrlHx3O5MX+ZQh66QhRnCMwJJBsSjRBCNScIVXTSMQWhWFVsWgjEGxnciWr2sQGDZ8MzIZ6sEpBDIIhKbmHM5Xv4SBwmflhBv9Iaw2dw76F8WQU4gRHLon7lk3ao5cinevwthD0cqTVFa0t2jfJ4Rh8WRY2BgWNpZiRIYQYYARdPLYAsRJihhz2zF015N/hOSqoyjrR911y0YouzK6/bOUkqqakR3JiWtYNkp2rtIXyenPL3pr+Qk=)  
+**Advanced Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/godfall-quarry#eJx9lEtvgzAQhP+Lz1RijYHALYpoL+XSVuoBIUQTR0EQXPHopep/r+kjhXSH63yw3p0d+128ijjLxC4tkuZY3BnTFrsipBtXONei5ESPE9VcfCr7+lz2g+4skosiSXs03f4LKKaOHzFi4M7Fe2NqMw7Toby84eqGnDh9mTsZ3/bKRP4vehhfqqYa9HbsLDSttpTW4MKLbbcvW/1cdgc9tUPfML0tHutqsEf1J4sm4CGgEPARCBAIEbgy6cc74lJA3EqJW6l0uT0zWoS3sGIlV0lxCVdcwhU3m1J82sgH8ZZL366XzRlAXEqJy7PkhlnetL8WpQdaDIAezlovu+GUNPqs26FsLvH+nxOJQipR5CSKnNwgEAHguQjQ6hZcYAABIy8Z4O726quAZkWNI5sJ/YAeDwmtQToC6LGZlpLnjjiIWFi/0qrVvf3wTcT08QmDtAgh)
 
 ---
 
 ## 🧹 Trash Mobs (Adept)
 
-??? note "Tanks (click to expand)"{.role-tank}
-    - **Enemy Name** — Tank-specific mechanic or positioning note.  
-    - **Example:** Slave Totems — Reduce mainstat aura; tank away from them.  
-    - Use active mitigation on heavy channels (e.g., *Mince*).
+??? note "Tanks (click to expand)"
+    - **Enforcers (Adept)** — Sunders armor by 20%, be ready with Defensive / Active Mitigation.
 
-??? note "Healers (click to expand)"{.role-healer}
-    - **Enemy Name** — Healing-intensive mechanic; expected damage pattern.  
-    - **Example:** Gorestained Butcher — *Tantrum*: uninterruptible channel; heal through.  
-    - Identify debuffs safe to dispel vs. ones that should be left up.
+??? note "Healers (click to expand)"
+    - **Skittershard (Adept)** — Applies DOT / HReduc on death.  Dispell or cast a heal to clear it.
 
-??? note "DPS (click to expand)"{.role-dps}
-    - **Enemy Name** — Interrupt priority list.  
-    - **Example:** Horned Seers — *Sanguine Offering* → must interrupt.  
-    - Focus order or burst targets if relevant.
-
+??? note "DPS (click to expand)"
+    - **No major DPS-specific mechanics on trash**  
+   
 ??? note "Everyone (click to expand)"{.role-every}
-    - **Enemy Name** — Shared mechanics and environmental hazards.  
-    - **Example:** Desecraters — Random AoE and soak circles; watch your feet.  
-    - Environmental warnings (e.g., “Do not walk on flowers — they spawn adds”).
-
+    - Throughout dungeon mobs target tank with PBAOE that damages and applies bleeds.
+    - **Enforcers (Adept)** — Casts Reflect shield, get behind them or kill yourself. There is a telegraph. Range play Close.
+    - **Quarry Stalkers** — Casts on random party member to apply poison DOT.  Interrupt or Dispel.
+    - **Wardens** — Psionic Horror casts on random party member to apply AOE fear.  Interrupt or Dispel and if targeted move away from group.
+    - **Earth Elemental (Adept)** — Applies stacking damage taken debuff.  Mass Dispel or burn quick.
+    
 ---
 
-## 🧑‍💼 Boss: <Boss Name>
+## 🧑‍💼 Boss: Godfall Titan
 
-??? note "Tanks (click to expand)"{.role-tank}
-    - **Mechanic Name** — Tankbuster or swap mechanic.  
-    - Use cooldowns or active mitigation as needed.  
-    - Positional notes (facing, adds, etc.).
+??? note "Tanks (click to expand)"
+    - **Titanic Slam** — Two white soak cirles (left and right). Solo soak one of two puddles  
+    - You have around 10 seconds of no tanking during Arcane Surge (dance mechanic).  Feel free to help on pillars if you can get back fast enough.  
+    
+??? note "Healers (click to expand)"
+    - **Volatile Energy (DOT that drops bomb)** — Dispel Volatile Energy Dot when player with it gets into position and AFTER The Wardstones are down.
 
-??? note "Healers (click to expand)"{.role-healer}
-    - **Mechanic Name** — Raid-wide AoE or sustained damage phases.  
-    - Healing cooldown recommendations.  
-    - Debuff management notes.
+??? note "DPS (click to expand)"
+    - **Ward Stones (Adept)** — Spawn atback of arena.  Hard swap to these. Interrupt them to make them vulnerable and then burn down fast.
 
-??? note "DPS (click to expand)"{.role-dps}
-    - **Mechanic Name** — Interrupts, adds, and burst windows.  
-    - Movement-heavy phases; where uptime can be maintained.  
-    - Priority tips for melee vs. ranged if applicable.
-
-??? note "Everyone (click to expand)"{.role-every}
+??? note "Everyone (click to expand)"
     - Core fight mechanics that affect all roles.  
-    - **Example:** “Kill bosses evenly or enrage triggers.”  
-    - AoEs to dodge, soaks, positioning patterns, or teamwork elements.  
-    - Environmental or timing notes (e.g., “Use Thorns AOE to slow self during Vortex”).
-
+    - **Titanic Slam (Start of Dance Mech)** - Entire party soaks the puddle that the tank is not in. Usually the left puddle.
+    - **Arcane Surge (Dance)** - Boss will do random order of Melee, Left, and Right Dodges (will always do all 3).
+    - **Volatile Energy** - DOT hits rando, party member and will drop a bomb when expires or dispelled move away from group. Bomb damage based on proximity so drop it far from group.
+    
 ---
 
 ## 📺 Video Guide
@@ -64,7 +51,7 @@
 ???+ info "Watch Video Guide (click to expand)"
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
       <iframe 
-        src="https://www.youtube.com/embed/<VIDEO_ID>" 
+        src="https://www.youtube.com/embed/CPH1Z8w3dFQ" 
         style="position:absolute;top:0;left:0;width:100%;height:100%;" 
         frameborder="0" allowfullscreen>
       </iframe>
@@ -72,4 +59,4 @@
 
 ---
 
-*Last updated: YYYY-MM-DD*
+*Last updated: 2025-10-25*
