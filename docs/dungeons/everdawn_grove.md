@@ -16,7 +16,6 @@
 ??? note "Healers (click to expand)"{.role-healer}
     - **Watch for dispells during trash.** 
 
-
 ??? note "DPS (click to expand)"{.role-dps}
     - **Totemic Shamans** — Hard swap to corruption totems during trash.  
     
