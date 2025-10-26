@@ -19,14 +19,14 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Normal Dungeons:
-      - Sailor's Abyss: dungeons/Sailors_Abyss.md
-      - Everdawn Grove: dungeons/Everdawn_Grove.md
-      - Silken Hollow: dungeons/Silken_Hollow.md
-      - Godfall Quarry: dungeons/Godfall_Quarry.md
-      - Empyrean Sands: dungeons/Empyrean_Sands.md
-      - Urrak Markets: dungeons/Urrak_Markets.md
+      - Sailor's Abyss: dungeons/sailors_abyss.md
+      - Everdawn Grove: dungeons/everdawn_grove.md
+      - Silken Hollow: dungeons/silken_hollow.md
+      - Godfall Quarry: dungeons/godfall_quarry.md
+      - Empyrean Sands: dungeons/empyrean_sands.md
+      - Urrak Markets: dungeons/urrak_markets.md
   - Capstone Dungeons:
-      - Cithrel's Fall (Contender League): dungeons/Cithrels_Fall.md
-      - The Heart of Tuzari (Adept League): dungeons/The_Heart_of_Tuzari.md
-      - Wraithtide Vault (Champion League): dungeons/Wraithtide_Vault.md
-      - Ransack of Drakheim (Paragon League): dungeons/Ransack_of_Drakheim.md
+      - Cithrel's Fall (Contender League): dungeons/cithrels_fall.md
+      - The Heart of Tuzari (Adept League): dungeons/the_heart_of_tuzari.md
+      - Wraithtide Vault (Champion League): dungeons/wraithtide_vault.md
+      - Ransack of Drakheim (Paragon League): dungeons/ransack_of_drakheim.md
