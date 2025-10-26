@@ -15,14 +15,14 @@ markdown_extensions:
   - tables
   - pymdownx.details
   - md_in_html 
+  - attr_list
   - toc:
       permalink: true
 extra_javascript:
   - assets/target-blank.js
 extra_css:
   - assets/two-col.css
-  - assets/wide-content.css
-  - attr_list
+  - assets/wide-content.css  
   - assets/role-colors.css
 nav:
   - Home: index.md
