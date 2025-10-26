@@ -1,0 +1,47 @@
+/* Role color system: tuned for both light/dark Material themes */
+:root {
+  --role-tank:    #3b82f6; /* blue  */
+  --role-healer:  #10b981; /* green */
+  --role-dps:     #ef4444; /* red   */
+  --role-every:   #a78bfa; /* purple */
+}
+
+/* helper: soft bg from a role color */
+@supports (color: color-mix(in srgb, white 92%, black)) {
+  .role-tank    > .admonition-title { background: color-mix(in srgb, var(--role-tank) 12%, transparent); }
+  .role-healer  > .admonition-title { background: color-mix(in srgb, var(--role-healer) 12%, transparent); }
+  .role-dps     > .admonition-title { background: color-mix(in srgb, var(--role-dps) 12%, transparent); }
+  .role-every   > .admonition-title { background: color-mix(in srgb, var(--role-every) 12%, transparent); }
+}
+/* fallback for browsers without color-mix */
+@supports not (color: color-mix(in srgb, white 92%, black)) {
+  .role-tank    > .admonition-title { background: rgba(59,130,246,.12); }
+  .role-healer  > .admonition-title { background: rgba(16,185,129,.12); }
+  .role-dps     > .admonition-title { background: rgba(239,68,68,.12); }
+  .role-every   > .admonition-title { background: rgba(167,139,250,.12); }
+}
+
+/* shared adornments for colored admonitions (works with ??? collapsibles) */
+details.admonition.role-tank,
+details.admonition.role-healer,
+details.admonition.role-dps,
+details.admonition.role-every {
+  border-left: .25rem solid currentColor;
+}
+
+/* set the “currentColor” for each role */
+details.admonition.role-tank    { color: var(--role-tank); }
+details.admonition.role-healer  { color: var(--role-healer); }
+details.admonition.role-dps     { color: var(--role-dps); }
+details.admonition.role-every   { color: var(--role-every); }
+
+/* make the title text/icon use the role color */
+.admonition.role-tank   > .admonition-title,
+.admonition.role-healer > .admonition-title,
+.admonition.role-dps    > .admonition-title,
+.admonition.role-every  > .admonition-title {
+  color: inherit;
+}
+
+/* slightly bolder title for scannability */
+.admonition-title { font-weight: 600; }
