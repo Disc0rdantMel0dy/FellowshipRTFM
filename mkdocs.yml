@@ -13,7 +13,7 @@ plugins:
 markdown_extensions:
   - admonition
   - tables
-  - pymdownx.detail
+  - pymdownx.details
   - toc:
       permalink: true
 nav:
