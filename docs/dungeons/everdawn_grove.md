@@ -23,7 +23,7 @@
     
 ---
 
-## 🧑‍💼 Boss: <Boss Name>
+## 🧑‍💼 Boss: Malgut the Fetid
 
 ??? note "Tanks (click to expand)"
     - **Umbral Shot (75% Cleave)** — Pop Defensives and Aim safe spot at deerest (Deer that pats around arena)  
