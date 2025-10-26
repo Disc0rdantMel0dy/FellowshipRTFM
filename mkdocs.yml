@@ -23,6 +23,7 @@ extra_css:
   - assets/two-col.css
   - assets/wide-content.css
   - attr_list
+  - assets/role-colors.css
 nav:
   - Home: index.md
   - Normal Dungeons:
