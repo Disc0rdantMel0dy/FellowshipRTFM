@@ -34,17 +34,18 @@
 
 ---
 
-## 🧑‍💼 Boss: <Boss Name>
+## 🧑‍💼 Boss: Sinthara
 
 ??? note "Tanks (click to expand)"{.role-tank}
     - **Mechanic Name** — Tankbuster or swap mechanic.  
-    - Use cooldowns or active mitigation as needed.  
-    - Positional notes (facing, adds, etc.).
+    - Position boss on east side of mast (east as you enter / the side she is on - see image below)  
+    - Try to angle it so you are slightly South and East of her (see image below)
 
 ??? note "Healers (click to expand)"{.role-healer}
-    - **Mechanic Name** — Raid-wide AoE or sustained damage phases.  
-    - Healing cooldown recommendations.  
-    - Debuff management notes.
+    - **Deafening Screech** — Raid-wide damage.  Be prepared for group heal.  
+    - **Undertow** — Magic DOT cast on 2 players (tank excluded).  Be prepared to dispel after player moves out of party.  
+    - There is a constant ticking raidwide so be prepared to heal everyone!  
+    
 
 ??? note "DPS (click to expand)"{.role-dps}
     - **Mechanic Name** — Interrupts, adds, and burst windows.  
@@ -52,10 +53,18 @@
     - Priority tips for melee vs. ranged if applicable.
 
 ??? note "Everyone (click to expand)"{.role-every}
-    - Core fight mechanics that affect all roles.  
-    - **Example:** “Kill bosses evenly or enrage triggers.”  
-    - AoEs to dodge, soaks, positioning patterns, or teamwork elements.  
-    - Environmental or timing notes (e.g., “Use Thorns AOE to slow self during Vortex”).
+    - Core fight mechanics that affect all roles. 
+    - **CORE MECHANIC** In the middle of arena is an interactable mast.  This must be clicked when Siren's Song (Happens at 50%) goes off to chain yourself to it. If you don't you die. 
+    - **CORE MECHANIC (Adept)** In the middle of arena is an interactable mast.  This must be used to Line of Sight the Necrotic Wave (big green line AOE) when you are targeted or you get yeeted out of arena.
+    - All players **NEED TO BE IN MELEE RANGE** to aid with dodging mechanics. (Namely Siren's Song - see above - and Necrotic Wave - see below)
+    - **Deafening Screech** — Interrupts anyone casting when it goes off.
+    - **Undertow** — Magic DOT cast on 2 players (tank excluded).  Drops a puddle that damages / slows.  Move to edge of platform to prevent mucking up playable area.
+    - **Binding Strike** — Tethers random party member to tank. Stay cloes to prevent damage (if you are standing where you should this should auto-resolve)
+    - Be ready to take a step backward when necrotic wave targets another player so you dont get yeeted.
+
+<p align="center">
+  <img src="../assets/everdawn_grove/map.png" alt="Everdawn Grove Map" width="600">
+</p>
 
 ---
 
@@ -64,7 +73,7 @@
 ???+ info "Watch Video Guide (click to expand)"
     <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
       <iframe 
-        src="https://www.youtube.com/embed/<VIDEO_ID>" 
+        src="https://www.youtube.com/embed/hz5cAuCR9cI" 
         style="position:absolute;top:0;left:0;width:100%;height:100%;" 
         frameborder="0" allowfullscreen>
       </iframe>
