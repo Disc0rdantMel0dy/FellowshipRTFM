@@ -28,7 +28,7 @@
 
 ---
 
-## 🧑‍💼 Boss: <Boss Name>
+## 🧑‍💼 Boss: Vexira, Mother of Nightmares
 
 ??? note "Tanks (click to expand)"
     - **Fang Strike (Quiet Tankbuster)** — Pop Defensive for this
