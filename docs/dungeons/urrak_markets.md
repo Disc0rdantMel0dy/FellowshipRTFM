@@ -14,6 +14,7 @@ One short paragraph describing the dungeon’s theme and layout.
 
 ---
 <div class="two-col" markdown>
+
 ## 🧹 Trash Mobs (Adept)
 
 ??? note "Tanks (click to expand)"
@@ -53,6 +54,7 @@ One short paragraph describing the dungeon’s theme and layout.
     - Soaks / baits / safe spots.
 
 </div>
+
 ---
 
 *Last updated: YYYY-MM-DD*
