@@ -1,76 +1,54 @@
-# 🏰 Stormwatch
-> ⚠️ **Under Construction**  
-> This page is still being documented and refined. Information may be incomplete or outdated.
+# <Dungeon Name>
 
----
-
-## 📍 Dungeon Overview
-
-- **Dungeon Timer:** TBD  
-- **Difficulty:** Adept / Contender / Champion (select one)  
-- **Primary Themes:** e.g. Jungle, Undead, Corruption  
-- **Environment Notes:** Add general info about hazards, movement, line of sight, or key features.
-
----
-
-## 🗺️ Route Planner
-
-**PUG Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/example-dungeon#HASH_HERE)
-
-**Advanced Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/example-dungeon#HASH_HERE)
-
-<p align="center">
-  <img src="{{ base_url }}/assets/example_dungeon_map.png" alt="Arena Map" width="600">
-</p>
+**Dungeon Timer:** <TIMER>  
+**PUG Route:** [Open Route in Method.gg](<PUG_URL>)  
+**Advanced Route:** [Open Route in Method.gg](<ADV_URL>)
 
 ---
 
 ## 🧹 Trash Mobs (Adept)
 
 ??? note "Tanks (click to expand)"
-    - Add notes on key tank mechanics.
-    - Example: **Gorestained Butcher** — *Mince* is a heavy channel; use mitigation.
-{: .role-tank }
+    - Add tank-specific notes (e.g., mitigation timings, skips, pulls).
 
 ??? note "Healers (click to expand)"
-    - Add healer tips (major dispels, burst damage phases, etc.).
-{: .role-healer }
+    - Add healer notes (e.g., heavy damage windows, dispels, or priority heals).
 
 ??? note "DPS (click to expand)"
-    - Add interrupt priorities, kill orders, and cleave targets.
-{: .role-dps }
+    - Add DPS notes (e.g., interrupts, kill priorities, or cleave management).
 
 ??? note "Everyone (click to expand)"
-    - Add shared mechanics and general warnings.
-{: .role-every }
+    - Add shared mechanics and positioning reminders.
 
 ---
 
-## 👑 Boss: Boss Name Here
-
-**Mechanics Overview:**  
-Brief description of fight flow and key abilities.
+## 🧑‍💼 Boss: <Boss Name>
 
 ??? note "Tanks (click to expand)"
-    - Add tank-specific notes (e.g. swaps, busters, positioning).
-{: .role-tank }
+    - Add tank mechanics, swap cues, or boss positioning.
 
 ??? note "Healers (click to expand)"
-    - Add healer mechanics (e.g. group damage, debuff management).
-{: .role-healer }
+    - Add healer mechanics, dispel timing, and healing CDs.
 
 ??? note "DPS (click to expand)"
-    - Add DPS callouts or burst windows.
-{: .role-dps }
+    - Add DPS mechanics, burst windows, or add phases.
 
 ??? note "Everyone (click to expand)"
-    - Universal mechanics and survival tips.
-{: .role-every }
+    - Add universal mechanics (soaks, spreads, wipes, etc.).
 
 ---
 
-## 🎥 Recommended Video Guide
+## 📺 Video Guide
 
-<p align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
-</p>
+???+ info "Watch Video Guide (click to expand)"
+    <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+      <iframe 
+        src="https://www.youtube.com/embed/<VIDEO_ID>" 
+        style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+        frameborder="0" allowfullscreen>
+      </iframe>
+    </div>
+
+---
+
+*Last updated: YYYY-MM-DD*
