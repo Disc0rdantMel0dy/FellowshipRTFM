@@ -1,12 +1,8 @@
-# <Capstone Dungeon Name>
+# The Heart of Tuzari
 
-!!! warning "⚠️ This Dungeon Guide is Under Construction"
-    This page is currently being worked on and may contain incomplete or placeholder information.  
-    Check back later for finalized strategies and role-specific notes.
-
-**Dungeon Timer:**  
-**PUG Route:** [Open Route in Method.gg](<PUG_URL>)  
-**Advanced Route:** [Open Route in Method.gg](<ADV_URL>)
+**Dungeon Timer: 23:30**  
+**PUG Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/the-heart-of-tuzari#eJyFll1vmzAUhv8L15mEMflo7pZEaie1E0ql7qKq0CnxUrcUT8ZM2qb99xGa4WB47Vs/x8fn4z0H/kQ/ovXjY7Tb59umNLI2d/Sq9JZqI3S+zdNPcTS7oPeyeCtFCxgCSQueZp3HO6oKMsVL52nZXfia5TdUfh+QBJK588gwthiGwCGB+SxgEIzZjEZVuIIvJf/JwNlq8pRNn6aTx8konGFZFrBlMWwaixOI8CW3PZYsEUlhweawnVc24Y2q62sy4pv8TfrQaYA5xQjLg2HiCqd3hnPlK6wcbiPfN7Kqb6n+IIu+DMPzZQzOP5qQtRUg/UxaNZbNA3o4y+jhIb9XytSGZCUOn3WtqtbUJo15L8MdVUdxenujGyOcBN2KJW6VLWHY4dlfG8yXQjxLIzJZlnS89DjNmIclHhZKfhHgS08F4BriUIEcThuHE8o9MTDmj9/WFHAQT6bpl6yOnmm6sAj6ACvLGoB9Yg1WIQOwd6xBOI2QAWiQNQB6sAbg62QN3C1kteYsyZ14V1VWUtWJdLQk7T6Gey3FO7wv9o3SrVy6t7r8mU9KAaV5R9833RhxjFKM5tPZXfwFjNdWn9umpOLt/dSZxpgXrcj0HvGM+TEH8Yx/S3o1uK3rwcobJ/fSdKiwk+tbQYfzt7ZV2NMsOkTrqAtQFntpGipbfz+jNfv7D5zedSA=)  
+**Advanced Route:** [Open Route in Method.gg](https://www.method.gg/fellowship/route-planner/the-heart-of-tuzari#eJyFVl1vmzAU/S88pxLGhI+8LYm0VmonlE7dQ1Uhl7ipV4orYyZt0/77gBDcOBzzes/1PffL996/3oe3enz0trt805Ra1PqO/ZRqw2rNVb7JwyvfW3xC70XxVvIWIAgITsAdqwqmi9feTtxLv2X5NStfzpAAIkuL4twzHzpAIQKjiaAT5Bhotsu/iwNv6fXIfS4LJ2RdBE8LnN2jpw8P+U3Bn4XmmShLdjjy+g6MYCw9QfdS6lozUfH9F1XLqiXvUhAZl9ayrr8yzX+IP0zt+7CI5e58tglG7DqMxohd2fENTXAhsDloLUVICL1OTH52jajqW1YP/GNjW3IK5DGQp9PywAdywBsAXhpNyyPAGwPemAA5sJ+c+n/N1DNTsjHQEmTCB9QUuBqCVIQgFSlwNQWlSRMgT4emmJxfuGUDu/9My8b4BwdLBxbNfO9w8HT6tWOmBI6ZMrTgNEbdHpEZj803sXOE5ziFv5fiWRBAJL6Y0gOWKfZbVAfHlPukAZiNRjSnYGfiQiGZUwDzzijMhzGnANJoFEDVjAJYwkbB3g6mI8b4utW15e+yykpW9W10sbrMrIfbJgQZb5Ex1ddStQ3bc/XRE1cz+zO97vqcrv+HIccFEWLIfVkRu8YWTPGOhsiY6S2rWh/a7bBWjR4PCHB1wNmQnGJbl6x4e++gRutXJfuzizrRcLq0hFydXUYd5S1n++H8advraeHtvZXXPxDFTuiGla2lX96K/PsPNI63Ig==)
 
 ---
 
